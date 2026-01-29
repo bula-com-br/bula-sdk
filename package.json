@@ -1,6 +1,6 @@
 {
 	"name": "bula-sdk",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "SDK oficial do Bula.com.br para busca de medicamentos e retorno de URLs oficiais de bulas",
 	"type": "module",
 	"main": "src/index.js",
